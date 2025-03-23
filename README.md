@@ -85,9 +85,7 @@ The document scanner follows these key steps:
 
 | Original Image                     | Scanned Result                   |
 | ---------------------------------- | -------------------------------- |
-| ![Original] ![image](https://github.com/user-attachments/assets/a482780d-487c-409b-8f21-b346f99bc0e0)
- | ![Scanned]![image](https://github.com/user-attachments/assets/4315b4d6-1328-4b04-9146-8f9965e689ad)
- |
+| ![Original] ![image](https://github.com/user-attachments/assets/a482780d-487c-409b-8f21-b346f99bc0e0)| ![Scanned]![image](https://github.com/user-attachments/assets/4315b4d6-1328-4b04-9146-8f9965e689ad)
 
 ## License
 
