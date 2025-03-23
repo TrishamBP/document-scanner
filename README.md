@@ -24,8 +24,8 @@ This document scanner uses computer vision techniques to:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/TrishamBP/document-scanner.git
+   cd document-scanner
    ```
 2. **Create a virtual environment:**
    ```bash
@@ -85,7 +85,9 @@ The document scanner follows these key steps:
 
 | Original Image                     | Scanned Result                   |
 | ---------------------------------- | -------------------------------- |
-| ![Original](examples/original.jpg) | ![Scanned](examples/scanned.jpg) |
+| ![Original] ![image](https://github.com/user-attachments/assets/a482780d-487c-409b-8f21-b346f99bc0e0)
+ | ![Scanned]![image](https://github.com/user-attachments/assets/4315b4d6-1328-4b04-9146-8f9965e689ad)
+ |
 
 ## License
 
